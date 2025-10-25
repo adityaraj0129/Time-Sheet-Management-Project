@@ -58,7 +58,7 @@ Environment configuration
 
 Create .env if needed and define backend URLs:
 
-REACT_APP_API_URL=http://localhost:5000
+REACT_APP_API_URL=http://localhost:5000/3000
 
 Usage
 
